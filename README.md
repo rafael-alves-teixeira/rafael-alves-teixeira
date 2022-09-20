@@ -1,7 +1,8 @@
-### Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="25" width="35">
-### Eu sou o Rafael! <img src="https://c.tenor.com/MBojod1pDOcAAAAj/vulcan-salute-people.gif" height="25" width="28">
-<br>
+### <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="25" width="35"> Olá... Eu sou o Rafael! <img src="https://c.tenor.com/MBojod1pDOcAAAAj/vulcan-salute-people.gif" height="25" width="28">
 
+ <a href="https://rafael-alves-teixeira.github.io/portfolio2/">
+ <img src="FooterImage.gif" alt="Astronauta sobrevoando a cidade">
+ </a>
 <div align="center">
   <a href="https://github.com/rafael-alves-teixeira">
   <img height="180em" 
